@@ -104,6 +104,8 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import '../Style.css';
 
+import resume from '../assets/TharunResume.pdf'
+
 const About = () => {
     useEffect(() => {
         AOS.init({ duration: 1000 });
@@ -155,7 +157,7 @@ database mongodb.
     data-aos="zoom-in"
     data-aos-duration="500">
     <AiOutlineCloudDownload />
-    <a href="/" download className="text-white">Download CV</a>
+    <a href= {resume} download className="text-white">Download CV</a>
 </Button>
 
                 </Row>
