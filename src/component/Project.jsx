@@ -1,4 +1,3 @@
-
 import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -16,7 +15,7 @@ const Projects = () => {
       id: 1,
       src: Sandesh,
       desc: "Efficiently manage employee flight bookings with a React frontend, powered by Node.js backend for seamless data handling, and MongoDB for robust database storage. Bootstrap ensures a sleek and responsive design, enhancing user experience.",
-      demo: "https://main--successonflys.netlify.app/",
+      demo: "https://main--succesonflys.netlify.app/",
       code: "https://github.com/TharunKumarVA-WEB/successonfly_frontend"
     },
     {
@@ -51,10 +50,10 @@ const Projects = () => {
                   <p className="card-text text-justify font-extralight flex-grow-1 overflow-hidden">{desc}</p>
                   <div className="d-flex justify-content-center">
                     <button className="btn btn-primary m-2">
-                      <a href={demo} className="text-white text-decoration-none">Demo</a>
+                      <a href={demo} target="_blank" rel="noopener noreferrer" className="text-white text-decoration-none">Demo</a>
                     </button>
                     <button className="btn btn-secondary m-2">
-                      <a href={code} className="text-white text-decoration-none">Code</a>
+                      <a href={code} target="_blank" rel="noopener noreferrer" className="text-white text-decoration-none">Code</a>
                     </button>
                   </div>
                 </div>

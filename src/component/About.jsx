@@ -24,24 +24,13 @@ const About = () => {
 
                 <Row>
                     <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
-                    Hello sir my name is tharun Kumar V A .i am graduated my bachelor’s degree from 
-Thanthai Periyar Government Institute of technology vellore. Since college I have been 
-doing funny programs on my laptop this motivates me more and more so, I decided 
-strongly to shift my career in the software industry… 
-This is not an easy task for me  I have strong adaptability also I want to explore more 
-about how the software industry play a major role in the universe 
+                    Hi, my name is Tharun. I graduated with a bachelor's degree in Civil Engineering from Thanthai Periyar Government Institute of Technology, Vellore. My passion for programming inspired me to confidently shift my career from civil engineering to software engineering. Despite the challenges, my adaptability and desire to explore the critical role of the software industry have driven my determination.
                     </p>
                 </Row>
                 <Row>
                     <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
-                    After graduating in civil engineering, I decided this was not enough knowledge to join 
-the software industry so, I decided to join the institute to develop my knowledge more 
-and more… 
-I decided to join full-stack development at Guvi Institute where I learned MERN 
-stack..also I did my daily tasks with their guidelines…After the end; they assigned a full
-stack project “Flight Booking App” For this I Used Reactjs as frontend, Nodejs as 
-Backend I used Bootstrap for styleing purposes and collecting secure user data with a 
-database mongodb.
+                  
+Recognizing that my civil engineering background wasn't enough, I embraced the challenge and completed several projects to enhance my skills, focusing on the MERN stack. One notable project was a "Flight Booking App," where I utilized React.js for the frontend, Node.js for the backend, Bootstrap for styling, and MongoDB for secure user data storage. This hands-on experience has equipped me with the skills to make a significant impact in the software industry.
                     </p>
                 </Row>
                 <Row className='mb-20'>
