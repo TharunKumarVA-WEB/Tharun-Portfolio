@@ -6,7 +6,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import '../Style.css';
 
-import resume from '../assets/TharunResume.pdf'
+import resume from '../assets/Tharunkumar_Annamalai_Full_Stack_Developer_Resume (1).pdf'
 
 const About = () => {
     useEffect(() => {
