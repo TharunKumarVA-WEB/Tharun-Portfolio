@@ -22,8 +22,8 @@ const Projects = () => {
       id: 2,
       src: Gist,
       desc: "Implemented Google Authentication in React frontend and Node.js backend for secure user login. Utilized Google Client ID to uniquely identify the application for authentication purposes. Ensured robust security and seamless user experience with this integration.",
-      demo: "",
-      code: ""
+      demo: "https://google-login-auth-user.netlify.app/",
+      code: "https://github.com/TharunKumarVA-WEB/Google-Authentification-FE"
     },
     {
       id: 3,
